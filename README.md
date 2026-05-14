@@ -16,7 +16,7 @@ A professional Android application designed for precise hydrological data collec
 
 The latest stable version of the application is available via GitHub Releases:
 
-👉 **[Download Latest APK](https://github.com/profileshub/hydrodatacollector/releases)**
+👉 **[Download Latest APK](https://github.com/profileshub/hydrodatacollector/releases/download/v2.0/app-release.apk)**
 
 ### Installation Instructions:
 1.  Download the latest `.apk` file to your Android device.
